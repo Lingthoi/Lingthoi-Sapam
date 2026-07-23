@@ -3,7 +3,7 @@
 
 Data Engineer | Azure Databricks | PySpark | SQL | Cloud Data Pipelines
 
-About Me Data Engineer with 4+ year of hands-on experience mainly focused troubleshooting and building reliable cloud data pipelines on Azure Databricks.I came to data engineering from 8+ years as a software engineer — wored across Hadoop ecosystems. Skilled in Spark, and Hive, with hands-on experience managing production clusters and resolving critical outages. Led technical teams and drove major data migrations, including India's Aadhaar project. 
+About Me Data Engineer with 4+ year of hands-on experience mainly focused troubleshooting and building reliable cloud data pipelines on Azure Databricks.I came to data engineering from 8+ years as a software engineer — worked across Hadoop ecosystems. Skilled in Spark and Hive, with hands-on experience managing production clusters and resolving critical outages. Led technical teams and drove major data migrations, including India's Aadhaar project. 
 
 
 
