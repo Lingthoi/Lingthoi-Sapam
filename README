@@ -1,45 +1,87 @@
+
+# Hi, I'm Lingthoi Sapam 👋
+
 Data Engineer | Azure Databricks | PySpark | SQL | Cloud Data Pipelines
 
 About Me Data Engineer with 4+ year of hands-on experience mainly focused troubleshooting and building reliable cloud data pipelines on Azure Databricks.I came to data engineering from 8+ years as a software engineer — wored across Hadoop ecosystems. Skilled in Spark, and Hive, with hands-on experience managing production clusters and resolving critical outages. Led technical teams and drove major data migrations, including India's Aadhaar project. 
 
-🚀 Portfolio (Pinned Repository):
-👉 Data Engineering & Analytics Portfolio
-A curated collection of industry-ready, end-to-end data engineering and analytics projects.
 
-What I'm working on Building end-to-end lakehouse pipelines for clients — ingesting from APIs, SQL databases, and vendor files into medallion architecture, with real attention to data quality and incremental processing.
 
-Currently working toward the DP-700 Microsoft Fabric Data Engineer Associate certification.
+## 🚀 Tech Stack
 
-🔹 Current Focus
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-Designing modern data platforms and end-to-end data pipelines with strong emphasis on scalability, data quality, and analytics consumption, primarily on Azure, while remaining cloud-agnostic.
+**Other tools:** HDFS, Qubole, Delta Lake, Lakeflow Pipelines, sparkSQL, PySpark, Python, Notebook, JSON, Parquet, CSV, ITIL, Zendesk, GitHub
 
-🧰 Tech Stack (Core)
+---
 
-Cloud & Data Platforms: Azure · Azure Data Factory · Azure Data Lake Storage (Gen2) · Azure Databricks
-Data Engineering: ETL / ELT Pipelines · Medallion Architecture · SQL · Python · Data Modeling · Data Quality & Validation
-Engineering & Collaboration: Git · GitHub · Version Control · Documentation
+## 💼 Experience
 
-🎯 Roles of Interest
+**Big Data Cloud Engineer** — OpSmart Inc. *(Coimbatore, Remote)*
+`Jul 2021 – Apr 2025`
+- Optimized compute (Spark/Hive clusters) and troubleshot PySpark & SQL queries in Notebooks
+- Managed, monitored, and optimized scheduled ETL pipelines on Airflow, Databricks, and Qubole
+- Resolved critical production outages across AWS/Azure/GCP environments, minimizing downtime
+- Collaborated with DevOps and architecture teams on releases and system integration
 
-Data Engineer
-Azure Data Engineer
-Cloud Data Engineer
+**IT Trainer** — Medhavi Foundation *(Silchar)*
+`Dec 2019 – Feb 2021`
+- Delivered IT training (computer operations, networking) at Pradhan Mantri Kaushal Kendra (PMKK)
+- Provided specialized training in data digitization; maintained the IT lab
 
-🔹 Certifications:
+**Senior Engineer (Big Data)** — HCL Infosystems Ltd. *(Noida/Bangalore)*
+`Nov 2012 – Oct 2017`
+- Maintained SLAs and prepared RCAs for authentication tracks within the **UIDAI (Aadhaar)** project
+- Conducted POCs on upgraded MapR/Hadoop versions; managed Hadoop clusters via MapR distribution
+- Worked with NoSQL (HBase) on Red Hat Linux (RHEL); supported Aadhaar authentication operations
+- Handled real-time data feed queries and escalations; contributed to data migration across data centers
 
-■ 2017 ITIL Foundation level(Simplilearn)
-■ 2018 Big Data Hadoop Admin(Simplilearn)
-■ 2018 Big Data Architect(Simplilearn)
-■ 2025 AWS Certified Solutions Architect – Associate(Udemy)
-■ 2025 AWS infrastructure as a code with Terraform (Udemy)
-■ 2025 Databricks Fundamentals from Databricks.
-■ 2025 Generative AI Fundamentals from Databricks.
-■ 2025Azure Databricks Platform Architect from Databricks.
-■ 2026 Build Data Pipelines with Lakeflow Spark Declarative
-Pipelines from Databricks.
+**Implementation Engineer** — Everest Consulting Group Pvt Ltd *(Third party to MindTree, New Delhi)*
+`Nov 2011 – Nov 2012`
+- Performed application deployment, log analysis, and transaction monitoring
+- Collaborated across teams on issue resolution using RHEL; maintained Aadhaar open-source solutions
 
-🤝 Let’s Connect
+**JAVA Programmer** — Technet Global Pvt. Ltd. *(New Delhi)*
+`Sep 2010 – Jul 2011`
+- Developed and debugged applications; monitored program execution for code quality
 
+**Junior Programmer** — Hillet, Dept. of IT, Govt. of India, STPI Complex *(Imphal)*
+`Dec 2009 – Jun 2010`
+- Designed database entry pages and connected database to UI; tested front-end Windows servers
+
+---
+
+## 🎓 Education
+
+**B.Tech**, Dr. M.G.R Engineering College, Chennai, Tamil Nadu — CGPA: 81%
+
+---
+
+## 📜 Certifications
+
+- AWS Certified Solutions Architect – Associate (Udemy, 2025)
+- AWS Infrastructure as Code with Terraform (Udemy, 2025)
+- Databricks Fundamentals — Databricks (2025)
+- Generative AI Fundamentals — Databricks (2025)
+- Azure Databricks Platform Architect — Databricks (2025)
+- Build Data Pipelines with Lakeflow Spark Declarative Pipelines — Databricks (2026)
+- Big Data Architect — Simplilearn (2018)
+- Big Data Hadoop Admin — Simplilearn (2018)
+- ITIL Foundation Level — Simplilearn (2017)
+
+---
+
+## 📫 Connect with Me
+
+- 📧 lingthoi@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/lingthoi-sapam-30905316
 💻 GitHub: https://github.com/Lingthoi
