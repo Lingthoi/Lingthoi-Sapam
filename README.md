@@ -1,9 +1,8 @@
-
 # Hi, I'm Lingthoi Sapam 👋
 
 Data Engineer | Azure Databricks | PySpark | SQL | Cloud Data Pipelines
 
-About Me Data Engineer with 3+ year of hands-on experience mainly focused troubleshooting and building reliable cloud data pipelines on Azure Databricks.I came to data engineering from 8+ years as a software engineer — worked across Hadoop ecosystems. Skilled in Spark and Hive, with hands-on experience managing production clusters and resolving critical outages. Led technical teams and drove major data migrations, including India's Aadhaar project. 
+About Me Data Engineer with 3+ year of hands-on experience mainly focused troubleshooting and building reliable cloud data pipelines on Azure Databricks.I came to data engineering from 8+ years as [...]
 
 
 
@@ -75,6 +74,6 @@ Engineering & Collaboration: Git · GitHub · Version Control · Documentation
 
 ## 📫 Connect with Me
 
-- 📧 lingthoi@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/lingthoi-sapam-30905316
-💻 GitHub: https://github.com/Lingthoi
+- 📧 **Email:** lingthoi@gmail.com
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/lingthoi-sapam-30905316
+- 💻 **GitHub:** https://github.com/Lingthoi
